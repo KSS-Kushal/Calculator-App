@@ -17,7 +17,7 @@ export const style = StyleSheet.create({
         borderTopLeftRadius: 30,
         borderTopRightRadius: 30,
         paddingHorizontal: 30,
-        paddingVertical: 40,
+        paddingVertical: 30,
     },
     display: {
         flex: 1,
